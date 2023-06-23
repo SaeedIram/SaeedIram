@@ -4,29 +4,18 @@
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me iramsaeed11@gmail.com
 
-# Project Management
-
-Attention to Detail
-
-Complex Problem Solving
-
-Structured Thinking
-
-Time Management
-
-Collaborative Working
-
-Taking initiative
-
-# Technical Skills:
-
-SQL, R, Python
-
-Power BI, Tableau, Excel, Google sheets
-
-Big Query, MySQL,
-
-Technical Documentation & Reporting
+* Project Management
+- Attention to Detail
+- Complex Problem Solving
+- Structured Thinking
+- Time Management
+- Collaborative Working
+- Taking initiative
+* Technical Skills:
+- SQL, R, Python
+- Power BI, Tableau, Excel, Google sheets
+- Big Query, MySQL,
+- Technical Documentation & Reporting
 
 <!---
 SaeedIram/SaeedIram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
