@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SaeedIram
-- 👀 I’m interested in 
+- 👋 Hi, I’m Iram Saeed.
+- 👀 I’m interested in Big data.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me iramsaeed11@gmail.com
