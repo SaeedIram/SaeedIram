@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iram Saeed.
-- 👀 I’m interested in Big data.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Big data analytics, ML and AI.
+- 🌱 I’m currently learning SQL, R and Python.
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me iramsaeed11@gmail.com
 
